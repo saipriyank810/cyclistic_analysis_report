@@ -30,5 +30,6 @@ Analyze how annual members and casual riders use Cyclistic bikes differently to 
 
 ---
 
-### 📎 Author
-Priyanka
+
+Your Name | Data Analyst
+

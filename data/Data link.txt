@@ -1,1 +1,3 @@
-Data link:
+Data link: Download all Excel files from the location below. I took the data for one year, i.e., 2024
+
+https://divvy-tripdata.s3.amazonaws.com/index.html

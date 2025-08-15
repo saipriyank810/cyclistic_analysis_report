@@ -1,3 +1,6 @@
 Data link: Download all Excel files from the location below. I took the data for one year, i.e., 2024
 
 https://divvy-tripdata.s3.amazonaws.com/index.html
+Or 
+Google drive:
+https://drive.google.com/drive/folders/1J0nxIPRfak9WT0yqZ8d_SregOSHeuSWw?usp=drive_link
